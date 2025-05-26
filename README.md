@@ -114,6 +114,8 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/DIcoding-005C84?style=for-the-badge&logo=Tableau&logoColor=white" />
 
-
-
 <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" />
+
+
+#### My Github Stats
+[![Verzha's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
