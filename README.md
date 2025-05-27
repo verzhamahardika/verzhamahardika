@@ -1,4 +1,4 @@
-![Verzha Mahardika](img/github-header-image.png)
+![Verzha Mahardika](github-header-image.png)
 ## Hi there! I'm Verzha👋
 
 <!--
