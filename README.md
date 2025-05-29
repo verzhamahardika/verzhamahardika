@@ -15,7 +15,7 @@ I am a fresh graduate in Information Technology with a strong interest and skill
 
     
 
-##### 🤖Machine Learning
+##### 🤖AI/Machine Learning
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
@@ -24,7 +24,7 @@ I am a fresh graduate in Information Technology with a strong interest and skill
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 
-##### 📊Data Analystics
+##### 📊Data Analystics & Visualization
 <img src="https://img.shields.io/badge/Matplotlib-1572B6?style=for-the-badge&logo=Power%20BI&logoColor=white " /> <img src="https://img.shields.io/badge/seaborn-316192?style=for-the-badge&logo=Power%20BI&logoColor=white " />
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white " /> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
