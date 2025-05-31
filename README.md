@@ -89,3 +89,6 @@ I am a fresh graduate in Information Technology with a strong interest and skill
 </picture>
 
 ###
+
+---
+<p>&#169; 2025 Verzha Mahardika</p>
