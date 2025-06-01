@@ -1,11 +1,16 @@
-![Verzha Mahardika](github-header-image-new.png)
+<div align="center">
+  <img src="github-header-image-new.png" alt="Verzha Mahardika">
+</div>
+
+<h3 align="center"> AI Engineer Cohort Intern at Laskar Ai | CERTNEXUS Certified - AI & Data Science | Machine Learning Engineer | Data Analyst & Data Science</h3>
+
+<p align="center">
+  <a href="mailto:verzhamahardhika@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/verzha-mahardika-6854a8257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+</p>
+
 ## Hi there! I'm Verzha👋
 I am a fresh graduate in Information Technology with a strong interest and skills in Data Analytics and Machine Learning Engineering. Experienced in data analysis, visualization, and predictive modeling using Python, SQL, and libraries such as Pandas, Scikit-learn, and TensorFlow. Proficient in creating interactive dashboards with Looker Studio and Tableau to support data-driven decision making.
-
-- 🌱 I’m currently learning **Data Analytics & Machine Learning**
-
-- 👨‍💻I'm Currently taking **Artificial Intelligence** training at [Laskar Ai](https://laskarai.id/)
-
 
 ### 🚀Skills
 
