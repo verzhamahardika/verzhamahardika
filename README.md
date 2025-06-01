@@ -1,4 +1,4 @@
-![Verzha Mahardika](github-header-image.png)
+![Verzha Mahardika](github-header-image-new.png)
 ## Hi there! I'm Verzha👋
 I am a fresh graduate in Information Technology with a strong interest and skills in Data Analytics and Machine Learning Engineering. Experienced in data analysis, visualization, and predictive modeling using Python, SQL, and libraries such as Pandas, Scikit-learn, and TensorFlow. Proficient in creating interactive dashboards with Looker Studio and Tableau to support data-driven decision making.
 
