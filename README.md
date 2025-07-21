@@ -10,8 +10,7 @@
 </p>
 
 ## Hi there! I'm Verzha👋
-I am a fresh graduate in Information Technology with a strong interest and skills in Data Analytics and Machine Learning Engineering. Experienced in data analysis, visualization, and predictive modeling using Python, SQL, and libraries such as Pandas, Scikit-learn, and TensorFlow. Proficient in creating interactive dashboards with Looker Studio and Tableau to support data-driven decision making.
-
+A CertNexus Data Science Associate certified fresh graduate with a strong focus on Data Science, Data Analysis, and Machine Learning. Experienced in an internship at LLDIKTI Region 8 Bali, responsible for data entry, data cleaning, and data processing using Google Sheets, as well as developing interactive dashboards with Google Looker Studio. Proficient in Python (Pandas, NumPy, Scikit-Learn, TensorFlow), SQL (MySQL), Excel, Google Sheets, and Tableau for data analysis, machine learning modeling, and insight-driven visualizations to support data-driven decision-making.
 ### 🚀Skills
 
 ##### 💻Programming Languages
